@@ -1,0 +1,384 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    background: url(../images/login/bg.png) repeat;
+}
+.main{
+    width: 450px;
+    height: 642px;
+    border: 1px solid #dadada;
+    border-radius: 10px;
+    top: 30%;
+    left: 50%;
+    margin-left: -225px;
+    position: absolute;
+    display: block;
+    margin-top: -371px;
+    box-shadow: 0 9px 30px -6px rgba(0,0,0,.2), 
+    0 18px 20px -10px rgba(0,0,0,.04),
+     0 18px 20px -10px rgba(0,0,0,.04),
+      0 10px 20px -10px rgba(0,0,0,.0);
+    margin: -163px 0 0 -218px;
+    background-color: #fff;
+    box-shadow: 0 0  200px 0 #e9e7e9 inset;
+    
+}
+
+.logo{
+    position: relative;
+    background-image: url(../images/login/logo.png);
+    background-size: 160px;
+    background-position: top center;
+    background-repeat: no-repeat;
+    height: 92px;
+    margin: 23px 0 50px;
+    padding: 75px 0 0;
+    box-shadow: none;
+}
+.main .logo h4{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    border-bottom: 0;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    line-height: 20px;
+    height: 20px;
+    font-size: 20px;
+    color: #333;
+    font-weight: 400;
+    display: block;
+ 
+}
+
+.logo div{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+.info{
+    padding: 0 40px 22px;
+    width: 370px;
+    height: 380px;
+   
+}
+.info form{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+.info form ul{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    list-style: none;
+}
+
+
+.info form ul:after{
+    content:".";
+    display:block;
+    clear:both;
+    height:0;
+    overflow:hidden
+    }
+
+.info form ul li{
+    clear: both;
+    margin-bottom: 15px;
+    position: relative;
+    display: list-item;
+}
+.info form ul li div{
+    background: #fff;
+    box-shadow: 0 3px 5px -4px rgba(0,0,0,.4) inset, -1px 0 3px -2px rgba(0,0,0,.1) inset;
+    border: #ccc solid 1px;
+    border-radius: 6px;
+    font-size: 18px;
+    height: 46px;
+    line-height: 46px;
+    opacity: .618;
+    position: relative;
+    position: relative;
+}
+.info form ul li div span{
+    display: flex;
+    width: 46px;
+    height: 46px;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.info form ul li div span img{
+ width:16px ;
+ height: 16px;
+}
+
+.info form ul li div span:nth-child(1){
+    border-radius: 6px 0 0 6px;
+    border-right: solid 1px #ccc;
+    box-shadow: 1px 0 3px -1px rgba(0,0,0,.1);
+    float: left;
+    height: 46px;
+    overflow: hidden;
+}
+.info form ul li div .span2{
+    width: 112px;
+}
+.info form ul li div span:nth-child(2){
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    left: 3px;
+    font-size: 16px;
+    cursor: default;
+}
+
+.info form ul li div span:nth-child(3){
+    position: absolute;
+    right: 10px;
+    font-size: 15px;
+    display: inline-block;
+    max-width: 76px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding-right: 20px;
+    text-align: right;
+    background-image: url(../images/login/4.png);
+    background-size: 8px 12px;
+    background-position: center right;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    z-index: 100;
+}
+.info form ul li div input{
+background: rgba(255,255,255,0) !important;
+border: none;
+color: #333;
+font-size: 16px;
+height: 34px;
+padding: 5px 15px;
+width: 158px;
+position: relative;
+z-index: 10;
+padding-right: 101px;
+outline: none;
+    position: absolute;
+    
+
+}
+
+.info form ul li #check {
+width: 80px;
+height: 12px;
+color: #999;
+float: left;
+font-size: 12px;
+cursor: pointer;
+margin-left: 22px;
+border: none;
+background:none;
+box-shadow: none;
+line-height: 12px;
+}
+
+#check a{
+    float: left;
+    width: 16px;
+    height: 16px;
+  
+    background: url("../images/login/check.png") no-repeat right 50%;
+}
+#check input{
+    display: none;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+}
+
+.info form ul li:last-child a{
+margin-left: 0;
+float: right;
+font-size: 12px;
+margin-right: 8px;
+color: #5079d9;
+cursor: pointer;
+text-decoration: none;
+} 
+
+
+.btn{
+    width: 370px;
+    height: 48px;
+    margin-top: 30px;
+    margin-bottom: 5px;
+   
+}
+
+.btn button{
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+clear: both;
+cursor: pointer;
+height: 46px;
+line-height: 46px;
+margin: 0 0 12px;
+padding: 1px;
+user-select: none;
+text-align: center;
+text-shadow: rgba(255,255,255,.496094) 0 1px 0;
+border: none;
+background-color: #487bda;
+color: #fff;
+font-size: 18px;
+text-align: center;
+outline: none;
+opacity: 0.5;
+
+}
+
+#other{
+padding-top: 2px;
+margin-bottom: -10px;
+margin-top: 20px;
+width: 370px;
+height: 20px;
+
+}
+
+#other ul{
+    width: 100%;
+    height: 100%;
+    color: #999;
+    font-size:12px ;
+}
+#other ul li{
+    float: left;
+    margin-right: 20px;
+    padding: 0;
+    list-style: none;
+
+
+}
+#other ul li:last-child{
+    float: right;
+}
+
+#other ul li:last-child a{
+    color: #999;
+    text-decoration: none;
+    
+}
+#other ul li:last-child a:hover{
+    color: #406dd6;
+}
+
+
+
+
+
+
+
+.line{
+    clear: both;
+    width: 370px;
+    font-size: 12px;
+    margin: 30px 0 0;
+    padding-top: 24px;
+    border-top: 1px solid #dadada;
+    box-shadow: 0 1px 0 rgba(255,255,255,.4) inset;
+}
+.line p span{
+    display: block;
+color: #999;
+text-align: center;
+}
+
+.line p span a{
+    color: #5079d9;
+cursor: pointer;
+text-decoration: none;
+}
+
+
+
+.copy{
+    width: 100%;
+clear: both;
+color: #434d55;
+font-size: 12px;
+padding: 0 0 60px;
+position: absolute;
+bottom: 0;
+text-align: center;
+}
+
+
+
+.copy div{
+    display: inline-block;
+margin: 0 auto;
+}
+
+.copy div h2{
+    float: left;
+height: 15px;
+line-height: 15px;
+color: #757575;
+font-size: 12px;
+}
+
+.copy h4 a span{
+    color: #5079d9;
+    font-weight: 300;
+}
+
+
+.info .user{
+    position: relative;
+
+}
+
+.info .usertitle{
+   display: none;
+    background: #d16d62;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    height: 26px;
+    line-height: 26px;
+    margin: 10px 0 0;
+    font-style: normal;
+    padding: 0 10px;
+    position: absolute;
+    right: 10px;
+    top: 0;
+    z-index: 10000;
+}

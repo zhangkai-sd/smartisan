@@ -1,0 +1,40 @@
+
+    [
+        [
+        {"info":"手机",
+        "title":["手机"],
+         "img":["./images/nav/1.webp"]
+        },
+      {"info":"官方配件",
+        "title":["数据线","充电器","线控耳机"],
+        "img":["./images/nav/2.webp","./images/nav/3.webp","./images/nav/4.webp"]
+        },
+       {"info":"畅呼吸",
+            "title":["空气净化器","生活电器配件"],
+            "img":["./images/nav/7.webp","./images/nav/8.webp"]
+        },
+        {"info":"服饰箱包",
+            "title":["箱包","男装"],
+            "img":["./images/nav/9.webp","./images/nav/10.webp"]
+        }    
+   
+       
+    
+],
+[
+    {    "info":"pro3",
+        "title":["坚果pro3","坚果pro3","坚果pro3","Smartisan 真无线TWS蓝牙耳机","Smartisan 真无线TWS蓝牙耳机","坚果快充移动电源 20000mAh（45W MAX)","Smartisan 颈挂蓝牙耳机","Smartisan 颈挂蓝牙耳机"],
+        "img":["./images/nav/11.webp","./images/nav/12.webp","./images/nav/13.webp","./images/nav/14.webp","./images/nav/15.webp","./images/nav/16.webp","./images/nav/17.webp","./images/nav/18.webp"],
+        "price":["2399.00","2399.00","2399.00","199","199","169","179","179"]
+    }
+],
+[
+    {    "info":"light",
+        "title":["大力智能家教灯 T5","大力智能家教灯 T5","大力智能家教灯 T5","大力智能家教灯 T5"],
+        "img":["./images/nav/19.webp","./images/nav/20.webp","./images/nav/21.webp","./images/nav/22.webp"],
+        "price":["2399.00","2399.00","2399.00","199","199","169","179","179"]
+    }
+]
+
+]
+   

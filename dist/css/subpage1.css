@@ -1,0 +1,504 @@
+i{
+   font-style: normal;
+}
+.shoppingmain{
+    width: 1100px;
+    height: 480px;
+   
+    margin: auto;
+    padding: 60px;
+}
+.shoppingmain .imgs,.imginfo{
+    float: left;
+    
+}
+
+.shoppingmain .imgs{
+    width: 540px;
+    height: 479px;
+    
+}
+
+.shoppingmain .imginfo{
+    width:558px ;
+    height: 490px;
+}
+.shoppingmain .imgs .left ul{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    float: left;
+    
+}
+ .imgs .left ul li{
+    padding: 10px;
+    border: 3px solid rgba(0,0,0,.2);
+    width: 54px;
+    height: 54px;
+    margin-top: 10px;
+    padding: 12px;
+    border: 1px solid #f0f0f0;
+    border: 1px solid rgba(0,0,0,.06);
+    border-radius: 5px;
+    cursor: pointer;
+ }
+ .imgs .left ul li img{
+    width: 54px;
+    height: 54px;
+ }
+
+ .imgs .right{
+    display: table-cell;
+    vertical-align: middle;
+    float: left;
+    margin-top: 30px;
+    margin-right: 10px;
+   
+
+ }
+ .imgs .right ul {
+    margin-left: 20px;
+    width: 400px;
+    height: 400px;
+    position: relative;
+   
+ }
+ .imgs .right ul li span{
+    position: absolute;
+    display: none;
+    width: 100px;
+    height: 100px;
+    background-color: #666;
+    opacity: 0.3;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+
+    
+ }
+
+
+ .imgs .right ul li{
+    animation: thumb-change .35s ease-out 1;
+    position: relative;
+    display: block;
+
+ }
+
+ .imgs .right ul li img{
+   display: block;
+   max-width: 100%;
+   height: auto;
+ }
+
+ .imginfo .title{
+    width: 420px;
+    height: 96px;
+    position: relative;
+    border-bottom: 1px solid #e5e5e5;
+    border-bottom: 1px solid rgba(0,0,0,.08);
+    text-align: left;
+    
+    
+  
+ }
+ .imginfo .title h1{
+    width: 420px;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000;
+    padding: 0 0 20px;
+ }
+
+
+ .imginfo .title h2{
+    width: 350px;
+    color: rgb(161, 155, 155);
+    font-size: 14px;
+    line-height: 18px;
+    padding-bottom: 28px;
+    white-space: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+ }
+
+ .title .price{
+    position: absolute;
+    right: -39px;
+    top: 28px;
+   
+ }
+
+
+
+
+ .imginfo .price i{
+   color: #d44d44;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: right;
+    font-size: 24px;
+    padding-left: 3px;
+ }
+ .imginfo .price  span{
+   color: #bdbdbd;
+   font-weight: 400;
+   font-size: 14px;
+   position: relative;
+   top: -4px;
+   margin-top: 1px;
+   line-height: 20px;
+    text-align: right;
+    display: block;
+}
+ 
+ .imginfo .pricedown{
+   margin: 0;
+   padding: 30px 0;
+   border-bottom: 1px solid #e5e5e5;
+   border-bottom: 1px solid rgba(0,0,0,.08);
+
+ }
+
+ .datatitle{
+   width: 85px;
+   height: 28px;
+   line-height: 28px;
+   color: #666;
+   font-size: 14px;
+   float: left;
+ }
+
+ .imginfo .pricedown .downdata div{
+   position: relative;
+   float: left;
+   width: 472px;
+   height: 100%;
+ }
+ .downdata1{
+    position: absolute;
+    top: 5px;
+ }
+
+
+.downdata:after{
+   visibility: hidden;
+ display: block;
+ font-size: 0;
+ content: " ";
+ clear: both;
+ height: 0;
+}
+ 
+
+ .downdata .downdata1 div span{
+   background: #fffbe5;
+   border: 1px solid #ffe57a;
+   color: #e6b217;
+
+   margin-top: -3px ;
+   margin-right: 8px;
+   overflow: hidden;
+   display: inline-block;
+   vertical-align: middle;
+   text-align: center;
+   padding: 0 8px;
+   font-size: 12px;
+   line-height: 18px;
+   border-radius: 13px;
+  
+   
+  
+ }
+
+ .downdata .downdata1 div label{
+   color: gray;
+   font-size: 12px;
+    line-height: 20px;
+    display: inline-block;
+ }
+
+
+ .color{
+   margin-top: 30px;
+   font-size: 14px;
+    color: #666;
+ }
+
+ .colorcontent{
+   position: relative;
+ }
+
+ .colortitle{
+   width: 85px;
+   height: 39px;
+   line-height: 39px;
+   color: #666;
+   font-size: 14px;
+   float: left;
+ }
+
+ .colorcontent ul{
+   position: relative;
+   float: left;
+   width: 472px;
+   height: 100%;
+   padding-bottom: 30px;
+   border-bottom: 1px dashed #e5e5e5;
+   border-bottom: 1px dashed rgba(0,0,0,.08);
+ }
+ .colorcontent ul li{
+ 
+    float: left;
+   padding: 0 20px;
+   margin-top: 20px;
+    height: 36px;
+    cursor: pointer;
+    margin-left: 34px;
+    font-size: 0;
+    border-radius: 50%;
+    border: 1px solid #666;
+ }
+ .colorcontent:after{
+   visibility: hidden;
+   display: block;
+   font-size: 0;
+   content: " ";
+   clear: both;
+   height: 0;
+ }
+
+
+.num{
+   display: block;
+   position: relative;
+   overflow: hidden;
+ float: left;
+   display: block;
+   width: 56px;
+   height: 18px;
+   margin: 7px 0 0;
+   border: none;
+   border-radius: 3px;
+   line-height: 18px;
+   text-align: center;
+   font-size: 14px;
+   font-weight: 700;
+   color: #454549;
+ 
+}
+
+.downdata1 ul li{
+    width: 26px;
+    height: 26px;
+  border-radius: 50%;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    border-radius: 50%;
+    float: left;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+
+}
+.downdata1 .num1{
+   background: url(../images/logo/6.jpg) no-repeat ;
+  
+}
+
+
+.downdata1 .num2{
+   background: url(../images/logo/6.jpg) no-repeat ;
+   background-position: left 0px top -60px; 
+}
+
+
+
+.shoppingmain:after{
+   visibility: hidden;
+   display: block;
+   font-size: 0;
+   content: " ";
+   clear: both;
+   height: 0;
+}
+
+
+.big{
+   width:500px;
+   height: 500px;
+  
+   position: absolute;
+   right:-520px;
+   top: 0;
+   display: none;
+   overflow: hidden;
+}
+
+.big img{
+   width: 250%;
+   height: 250%;
+   position: absolute;
+   z-index: 10000;
+}
+
+
+.samll{
+   width:100px;
+   height: 100px;
+}
+
+
+.bottomshopping{
+   width: 100%;
+    height: 60px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #fafafa;
+    border-top: 1px solid #e3e3e3;
+    box-shadow: 0 -1px 3px rgba(0,0,0,.04);
+    z-index: 25;
+    position: sticky;
+}
+.bootominfo{
+   width: 1220px;
+    line-height: 20px;
+    margin: 12px auto 0;
+}
+
+.bootominfo p{
+   color: #707070;
+    font-size: 12px;
+    font-weight: 500;
+    margin-right: 20px;
+    float: left;
+
+}
+
+.product{
+   position: relative;
+    margin-right: 20px;
+    font-size: 14px;
+    float: left;
+}
+
+
+.product h1{
+   font-size: 100%;
+    font-weight: 400;
+}
+
+.product h2{
+   font-size: 12px;
+    color: #9d9d9d;
+    font-weight: 400;
+}
+
+.shoppingcar{
+   width: 118px;
+    height: 38px;
+    line-height: 38px;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 10px;
+    border-radius: 6px;
+    background-color: #6383c6;
+    background-image: linear-gradient(#6383c6,#4262af);
+    margin-top: -2px;
+    padding: 1px;
+    float: right;
+}
+
+.buynow{
+   height: 40px;
+    padding: 0;
+    border: 1px solid #dedede;
+    background-color: #f8f8f8;
+    background-image: linear-gradient(#fbfbfb,#f5f5f5);
+   float: right;
+   width: 118px;
+    height: 38px;
+    line-height: 38px;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 10px;
+    border-radius: 6px;
+}
+
+.buynow a{
+   height: 40px;
+    line-height: 40px;
+    padding: 0;
+    color: #646464;
+    font-weight: 700;
+    background-color: #f8f8f8;
+    background-image: linear-gradient(#fbfbfb,#f5f5f5);
+    box-shadow: none;
+    text-shadow: none;
+}
+
+.bottomprice{
+   float: right;
+    margin-right: 20px;
+    text-align: right;
+}
+.bootomnewprice{
+   text-align: right;
+    line-height: 24px;
+    position: relative;
+    font-size: 20px;
+    font-weight: 700;
+    color: #d44d44;
+}
+
+
+.bootomnewprice i{
+   font-style: normal;
+    font-size: 14px;
+}
+
+
+.bootomnewprice span{
+   text-align: right;
+    line-height: 24px;
+}
+
+.bootomoldprice{
+   position: relative;
+    color: #969696;
+    line-height: 14px;
+    display: inline-block;
+    vertical-align: top;
+   
+}
+
+.bootomoldprice i{
+  
+    font-size: 12px;
+    line-height: 14px;
+    text-decoration: line-through;
+}
+
+.bootomoldprice span{
+   color: #969696;
+    line-height: 14px;
+    text-decoration: line-through;
+}
+.price span{
+   text-decoration: line-through;
+}
+
+
+.shoppingcontent{
+   height: 80px;
+padding: 20px;
+position: relative;
+}

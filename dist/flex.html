@@ -1,0 +1,28 @@
+<!doctype html><html lang="en"><head><meta charset="UTF-8"><title>弹性盒布局-宽度自动分配-图片自适应</title><style>*{ margin:0; padding:0}
+        #parent { width:100%; background:#999; display:-webkit-box; height:auto;}
+        #parent div { margin:5px;}
+        /*将盒子进行平均分配的主要代码*/
+        /*.son1{ -webkit-box-flex:1; }*/
+        /*.son2{ -webkit-box-flex:1; }*/
+        /*.son3{ -webkit-box-flex:1; }*/
+        /*.son3{ -webkit-box-flex:3; } */  /*假如此处为3，则此盒子是整个大盒子一块的1/3*/
+        .son1 img,.son2 img,.son3 img{
+            width:100%;
+            height: 100%;
+        }
+        .son1,.son2,.son3{
+            position: relative;
+            -webkit-box-flex:1;
+        }
+        .son1 span,.son2 span,.son3 span{
+            position: absolute;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            top:0;
+            margin: auto;
+            text-align: center;
+            width: 100%;
+            height: 20px;
+            white-space:nowrap;/*禁止文字自动换行*/
+        }</style></head><body><div id="parent"><div class="son1"><img src="test_img/111.jpg" alt=""> <span></span></div><div class="son2"><img src="test_img/111.jpg" alt=""> <span>内容区2的文字介绍</span></div><div class="son3"><img src="test_img/111.jpg" alt=""> <span>内容区3的文字介绍</span></div></div></body></html>

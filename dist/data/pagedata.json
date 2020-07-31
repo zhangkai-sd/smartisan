@@ -1,0 +1,654 @@
+[
+    {
+        "id": 1001,
+        "title": "Smartisan 真无线TWS蓝牙耳机",
+        "title2": "智能配对 开盖即连",
+        "price": 199,
+        "oldprice": 249,
+        "sales": "自营配件 限时直降",
+        "info": "满 99 元包邮",
+        "color": [
+            "#fff",
+            "#0a4c4a"
+        ],
+        "colortext": [
+            "白色",
+            "绿色"
+        ],
+        "img": [
+            [
+                "./images/subpage/erji/1.webp",
+                "./images/subpage/erji/2.webp",
+                "./images/subpage/erji/3.webp",
+                "./images/subpage/erji/4.webp"
+            ],
+            [
+                "./images/subpage/erji/5.webp",
+                "./images/subpage/erji/6.webp",
+                "./images/subpage/erji/7.webp",
+                "./images/subpage/erji/8.webp",
+                "./images/subpage/erji/9.webp"
+            ]
+        ]
+    },
+    {
+        "id": 1002,
+        "title": "地平线8号 14英寸休闲文青背包",
+        "title2": "",
+        "price": 349,
+        "oldprice": 399,
+        "sales": "箱包会员日直降",
+        "info": "满 99 元包邮",
+        "colortext": [
+            "绀青色",
+            "茜色"
+        ],
+        "color": [
+            "#384257",
+            "#ba3d4a"
+        ],
+        "img": [
+            [
+                "./images/subpage/bags/1.webp",
+                "./images/subpage/bags/2.webp",
+                "./images/subpage/bags/3.webp",
+                "./images/subpage/bags/4.webp",
+                "./images/subpage/bags/5.webp"
+            ],
+            [
+                "./images/subpage/bags/6.webp",
+                "./images/subpage/bags/7.webp",
+                "./images/subpage/bags/8.webp",
+                "./images/subpage/bags/9.webp",
+                "./images/subpage/bags/10.webp"
+            ]
+        ]
+    },
+    {
+        "id": 1003,
+        "title": "落栗 T恤 卡夫卡出生",
+        "title2": "100%纯棉",
+        "price": 149,
+        "oldprice": 399,
+        "sales": "夏日服装7折",
+        "info": "满 99 元包邮",
+        "colortext": [
+            "黑色",
+            "白色",
+            "藏蓝色"
+        ],
+        "color": [
+            "#000",
+            "#fff",
+            "#000099"
+        ],
+        "img": [
+            [
+                "./images/subpage/tshirt/1.webp",
+                "./images/subpage/tshirt/2.webp",
+                "./images/subpage/tshirt/3.webp",
+                "./images/subpage/tshirt/4.webp",
+                "./images/subpage/tshirt/5.webp"
+            ],
+            [
+                "./images/subpage/tshirt/6.webp",
+                "./images/subpage/tshirt/7.webp",
+                "./images/subpage/tshirt/8.webp",
+                "./images/subpage/tshirt/9.webp",
+                "./images/subpage/tshirt/10.webp"
+            ],
+            [
+                "./images/subpage/tshirt/11.webp",
+                "./images/subpage/tshirt/12.webp",
+                "./images/subpage/tshirt/13.webp",
+                "./images/subpage/tshirt/14.webp",
+                "./images/subpage/tshirt/15.webp"
+            ]
+        ]
+    },
+    {
+        "id": 1004,
+        "title": "硕非凡 灭蚊灯",
+        "title2": "外出携带也能用",
+        "price": 228,
+        "oldprice": 258,
+        "sales": "灭蚊灯直降30元",
+        "info": "满 99 元包邮",
+        "colortext": [
+            "黑色"
+        ],
+        "color": [
+            "#000"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/b2e98ae73d3750f45f010e031296fec0.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/4ec3508e507415caa1b8ae449f28a0c0.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/980c0c4f64f987503b3345ca5a041e1f.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/abc77b782d9076dcf482bfecc4c73281.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/efe3d7326365a821a6d416dbcfc6763c.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1005,
+        "title": "Smartisan 半入耳式耳机",
+        "title2": "经典配色、专业调音、高品质麦克风",
+        "price": 35,
+        "oldprice": 50,
+        "sales": "自营配件 限时直降",
+        "info": "满 99 元包邮",
+        "colortext": [
+            "红色",
+            "黑色",
+            "白色"
+        ],
+        "color": [
+            "red",
+            "black",
+            "#fff"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/8a875418797690e26b665cc0d86dffc7.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/59aac9e0ac2fa7c0a529245a2519b9dd.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/38becbf5ba31829436ab844e77f9d416.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/c7a933a7ffbed695b09b89e4e954fd52.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/b2c628e44313c263a4f3c326d17fe33f.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/ce632bd67465027861707ec221b37c2d.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/10525c4b21f039fc8ccb42cd1586f5cd.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/d14645b66ff52c2e5958cd866a7d91e5.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/7a4257950f953d6a7048d72de374530f.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/dbe085a6f133b944e4e23bbb515c31ff.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/30ac0a1ab02999667f1362c501447e58.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/9c1d958f10a811df841298d50e1ca7c0.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/afa4ecdb54d7f50d0b6265bbcf31d6c8.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/eb1bf1dee365c7855e6b047d8b9c5b1e.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1006,
+        "title": "诗梅迪 谷胱甘肽面膜",
+        "title2": "美白肌肤 改善皱纹",
+        "price": 35,
+        "oldprice": 50,
+        "sales": "美妆品牌日直降",
+        "info": "满 99 元包邮",
+        "colortext": [
+            "十片装"
+        ],
+        "color": [
+            "#fff"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/8c9bab7b1dc828f7308e9cc0acfcaa0f.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/64c3e3c7c00aff10137bf0092215ecb6.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/98176a4fa1a5f58e87f9e078a0574fa1.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/8c9bab7b1dc828f7308e9cc0acfcaa0f.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/a2c561bd7318fe056231183d5028efde.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1007,
+        "title": "smartisan砖式蓝牙小音箱",
+        "title2": "一款设计出色、音质出众的随身音箱",
+        "price": 35,
+        "oldprice": 50,
+        "sales": "自营配件 限时直降",
+        "info": "满 99 元包邮",
+        "colortext": [
+            "灰色",
+            "青色"
+        ],
+        "color": [
+            "#d2d2d2",
+            "#9cbac4"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/6e96ccea3bd56bdd2243eb20330cec30.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/a99de61d502b2f29b4a6d847751cf478.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/3f6594f3537db91a3a4d6196111429df.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/9e45ff0ce5d60627f0b07b1df4c56ed6.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/830389bcd0e66569acd5ce05a304a3ea.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/c44f0ab4da5591fc3d0f82b7ac0f4f65.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/02e89e63b3cb55587f76e97f890c6812.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/e5ce492f1cbd4460b6b0bba933ec5b7c.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/8d4720b9c803d9c7285bb6022d0b86ab.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/3c25ed853f48a15c107a8f7f562d69ae.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1008,
+        "title": "坚果 QuickCharge 4+ 快速充电器",
+        "title2": "全面兼容的 18W 快速充电",
+        "price": 85,
+        "oldprice": 95,
+        "sales": "此款充电器为 Type-C 接口",
+        "info": "满 99 元包邮",
+        "colortext": [
+            "白色"
+        ],
+        "color": [
+            "fff"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/a668d1a5f41b04ece82d76ded1e94d3a.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/c2375861762d557f65cf880b00161a41.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/630dc5c945e78c0613d872cb83222b9e.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1009,
+        "title": "坚果 pro 3",
+        "title2": "高通骁龙™ 855Plus · 4800 万模范四摄 · Smartisan OS 7.0",
+        "price": 2599,
+        "oldprice": 3199,
+        "sales": "坚果pro 3 现实直降",
+        "info": "满 99 元包邮",
+        "colortext": [
+            "黑色",
+            "白色",
+            "松绿色"
+        ],
+        "color": [
+            "black",
+            "#ffffff",
+            "#063e2b"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/f195e666e089d4e3775ce67d8e9523ce.png?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/9934374dda26c292555dd1ec0887e17b.png?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/a4c73e549097c7f5cf2c5e0d87e56d13.png?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1010,
+        "title": "坚果 pro 3",
+        "title2": "高通骁龙™ 855Plus · 4800 万模范四摄 · Smartisan OS 7.0",
+        "price": 2599,
+        "oldprice": 3199,
+        "sales": "坚果pro 3 现实直降",
+        "info": "满 99 元包邮",
+        "colortext": [
+            "黑色",
+            "白色",
+            "松绿色"
+        ],
+        "color": [
+            "black",
+            "#ffffff",
+            "#063e2b"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/f195e666e089d4e3775ce67d8e9523ce.png?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/9934374dda26c292555dd1ec0887e17b.png?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/a4c73e549097c7f5cf2c5e0d87e56d13.png?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1011,
+        "title": "坚果 pro 3",
+        "title2": "高通骁龙™ 855Plus · 4800 万模范四摄 · Smartisan OS 7.0",
+        "price": 2599,
+        "oldprice": 3199,
+        "sales": "坚果pro 3 现实直降",
+        "info": "满 99 元包邮",
+        "colortext": [
+            "黑色",
+            "白色",
+            "松绿色"
+        ],
+        "color": [
+            "black",
+            "#ffffff",
+            "#063e2b"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/f195e666e089d4e3775ce67d8e9523ce.png?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/9934374dda26c292555dd1ec0887e17b.png?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/a4c73e549097c7f5cf2c5e0d87e56d13.png?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1012,
+        "title": "Smartisan 颈挂蓝牙耳机",
+        "title2": "“圈铁一体代表作”",
+        "price": 179,
+        "oldprice": 199,
+        "sales": "自营配件 限时直降",
+        "info": "满 99 元包邮",
+        "colortext": [
+            "黑色",
+            "薄荷绿",
+            "红色"
+        ],
+        "color": [
+            "black",
+            "#87c7b1",
+            "red"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/d159521e479b26f3c97a1e4f00a5aefd.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/a5b6bf1f38fb88dceeb1e917bec288da.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/ce9d167b61454cdc2aa59128cfc80b10.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1013,
+        "title": "坚果快充移动电源 20000mAh（45W MAX)",
+        "title2": "“充电狂人的大满足”",
+        "price": 179,
+        "oldprice": 249,
+        "sales": "自营配件 限时直降",
+        "info": "满 99 元包邮",
+        "colortext": [
+            "白色"
+        ],
+        "color": [
+            "#fff"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/de1274f4c70fe3768417bb0454320089.png?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/8c1016333860b52becfb5e67de6544ef.png?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/cef8c7d10569efa64147e58c74393210.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/3c59aa911b831d4f0c7e2e7d2d2ee83e.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/a9105af9998aba3ef254ca8b2e77935f.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1014,
+        "title": "Smartisan 真无线TWS蓝牙耳机",
+        "title2": "智能配对 开盖即连",
+        "price": 199,
+        "oldprice": 249,
+        "sales": "自营配件 限时直降",
+        "info": "满 99 元包邮",
+        "color": [
+            "#fff",
+            "#0a4c4a"
+        ],
+        "colortext": [
+            "白色",
+            "绿色"
+        ],
+        "img": [
+            [
+                "./images/subpage/erji/1.webp",
+                "./images/subpage/erji/2.webp",
+                "./images/subpage/erji/3.webp",
+                "./images/subpage/erji/4.webp"
+            ],
+            [
+                "./images/subpage/erji/5.webp",
+                "./images/subpage/erji/6.webp",
+                "./images/subpage/erji/7.webp",
+                "./images/subpage/erji/8.webp",
+                "./images/subpage/erji/9.webp"
+            ]
+        ]
+    },
+    {
+        "id": 1015,
+        "title": "大力智能家教灯 T5",
+        "title2": "国家AA级护眼 | 智能作业工具 | 家长端智能联动",
+        "price": 799,
+        "oldprice": 999,
+        "sales": "买即赠 价值199元的知识星球学生书包一件",
+        "info": "满 99 元包邮",
+        "color": 0,
+        "colortext": [
+            "湖水蓝",
+            "樱花粉"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/404dda1508fdb5b3e8e8c442122982b3.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/234bd15e76cbaa66d762230f9ebb16b4.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/629739b0c9aafd24cd9554ca50f22bc2.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/6fbd47a1ad6b4f0a0a90b14baf2985ac.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/4f69bbfa2b9af0e2c3b2e0327b8d7a2a.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/387d57e87385bf1296d72637e78a88a7.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/77dda977b4278f0f3a66a3ba1d262bc3.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/e4508989085e4a0ea895900536e1e007.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/21c1b18e1a89298aa951f441d20b58c3.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/02d5c11a0b2c1534bcdedef82933a517.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1016,
+        "title": "大力智能家教灯 T5",
+        "title2": "国家AA级护眼 | 智能作业工具 | 家长端智能联动",
+        "price": 1099,
+        "oldprice": 0,
+        "sales": "买即赠 价值199元的知识星球学生书包一件",
+        "info": "满 99 元包邮",
+        "color": 0,
+        "colortext": [
+            "薄荷绿",
+            "香芋紫"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/5947ae6ef58e24305cc7535752b6da8f.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/eb0bf628e0e2b63d69c986f0e980596a.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/adf191112a820b11b4466368efe2307f.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/be52033a844e37ee0ed096193230f557.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/4053bca2ca5d03ab2c724a66224069ca.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/ff78cedf8e64083adfb65ce249ec27b6.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/394350c013371a41938769f81329e86f.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/99485b3aa514d45c3cc4577ba29b4c32.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/cba303984a94de34c6069c39f6786801.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/08fb37f24c12291d0546390867978641.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1017,
+        "title": "阳夫人 家居凉拖鞋 字母版",
+        "title2": "按摩式设计 轻盈穿着",
+        "price": 17,
+        "oldprice": 19,
+        "sales": "居家拖鞋直降",
+        "info": "满 99 元包邮",
+        "color": 0,
+        "colortext": [
+            "字母版男款字母-灰色45-46",
+            "字母版男款字母-墨绿色45-46"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/23370e94e499d48033cfbac55dc465fa.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/7c716b20897f6ec5df476348739e8c59.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1018,
+        "title": "金珍 香酥香辣小黄鱼",
+        "title2": "精选食材 美味可口",
+        "price": 9,
+        "oldprice": 9,
+        "sales": "金珍食品直降",
+        "info": "满 99 元包邮",
+        "color": 0,
+        "colortext": [
+            "香酥68g",
+            "香辣68g"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/009c7f930c696a1db354b6bc234c36e6.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/f634480cf019e8ee1b9e325866a20ccc.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/7435fadd8b62cb03d5cb1d6550478241.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/8a417dd7a32a29c56ab3997a9b9e1080.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/2aec925899b23a85e5b979ecb575cd03.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/009c7f930c696a1db354b6bc234c36e6.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/f634480cf019e8ee1b9e325866a20ccc.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/7435fadd8b62cb03d5cb1d6550478241.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/8a417dd7a32a29c56ab3997a9b9e1080.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/2aec925899b23a85e5b979ecb575cd03.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1019,
+        "title": "依帽趣人防紫外线空顶帽",
+        "title2": "轻盈防晒 冰感随行",
+        "price": 59,
+        "oldprice": 69,
+        "sales": "夏日凉帽618直降",
+        "info": "满 99 元包邮",
+        "color": 0,
+        "colortext": [
+            "白色",
+            "浅紫",
+            "蓝色",
+            "黑色"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/dab289b647797bd4ff30d92952efd621.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/94cc9d7c5d88d263118b0d12f77f07e0.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/0a4d844784fa767144c93ac9d81062ef.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/06a1ff002dbd713398cdb4bf5c696075.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1020,
+        "title": "网易有道词典笔2.0",
+        "title2": "中英生词 一扫而光",
+        "price": 659,
+        "oldprice": 799,
+        "sales": "夏日凉帽618直降",
+        "info": "教育类品牌直降",
+        "color": 0,
+        "colortext": [
+            "明眸黑",
+            "灵犀银",
+            "隽秀粉"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/20db157fb5addcfabc564143bbf935df.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/d307d56072e9de08adc769746b0c400e.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/baa6f472e5cf3d2781471e230d3b0324.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/fc9c76ca38a2970c2379bb70a780c8f9.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/fc9c76ca38a2970c2379bb70a780c8f9.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/d307d56072e9de08adc769746b0c400e.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/baa6f472e5cf3d2781471e230d3b0324.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/20db157fb5addcfabc564143bbf935df.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/20db157fb5addcfabc564143bbf935df.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/d307d56072e9de08adc769746b0c400e.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/baa6f472e5cf3d2781471e230d3b0324.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/fc9c76ca38a2970c2379bb70a780c8f9.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1021,
+        "title": "Remax便携式手持风扇",
+        "title2": "抖音同款好物",
+        "price": 39,
+        "oldprice": 0,
+        "sales": "",
+        "info": "满99包邮",
+        "color": 0,
+        "colortext": [
+            "白色",
+            "蓝色"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/2a4b44e8d524cfe7ab88a949cead80bc.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/13df309b8080aa1092d1afa10b6b4bb5.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    },
+    {
+        "id": 1022,
+        "title": "ASPOR 无线TWS蓝牙耳机",
+        "title2": "22小时超长使用时长",
+        "price": 98,
+        "oldprice": 0,
+        "sales": "去爱吧直降活动",
+        "info": "满99包邮",
+        "color": 0,
+        "colortext": [
+            "黑色",
+            "白色"
+        ],
+        "img": [
+            [
+                "https://resource.smartisan.com/resource/28a04293484c3aede2cfa95f1e261f3c.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/f5152232c7074a6990e0b0519d3a20d0.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/62fb5511c8742e5f9a8728f8de1f9300.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ],
+            [
+                "https://resource.smartisan.com/resource/03ec82aad547e94a2dcff03b5ece9d9e.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/3f91892969302b3ce575a25b5a99eabd.jpg?x-oss-process=image/resize,w_474/format,webp",
+                "https://resource.smartisan.com/resource/62fb5511c8742e5f9a8728f8de1f9300.jpg?x-oss-process=image/resize,w_474/format,webp"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,179 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Document</title><style>div{
+            width: 500px;
+            height: 500px;
+            border: 1px solid #000;
+            margin: 50px auto;
+          position: relative; 
+        }
+        div img{
+             position: absolute; 
+            top: 100px;
+            left: 150px;
+            display: none;
+        }
+     img:first-child{
+         display: block;
+     }
+        div ul{
+            list-style: none;
+            width: 100px;
+            height: 20px;
+            position: absolute;
+            left: 180px;
+            bottom: 50px;
+           
+        }
+        div ul li{
+            width: 10px;
+            height: 10px;
+            border: 1px solid #000;
+            float: left;
+            margin: 5px;
+            border-radius: 50%;
+           
+        }
+        li:first-child{
+            background-color: black;
+        }
+        li:nth-child(2){
+            background-color: aliceblue;
+        }
+        li:nth-child(3){
+            background-color: #7a313c;
+        }
+        li:nth-child(4){
+            background-color: #fff;
+        }
+
+        .firstli{
+            border: 3px solid gray;
+        }</style><script src="./js/jquery/dist/jquery.min.js"></script></head><body><!--     <div>
+        <img src="img/clothing/1.png" >
+        <img src="img/clothing/2.png" >
+        <img src="img/clothing/3.jpg" >
+        <img src="img/clothing/4.jpg" >
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+
+
+    
+
+    <div class="goodsCon">
+        <a href="#">
+            <div class="condown"></div>
+            <div class="iconDiv">
+                <img src="" alt="" class="icon">
+            </div>
+            <h4></h4>
+            <h6></h6>
+            <div class="dotlist">
+                <ul>
+                   
+                </ul>
+            </div>
+           
+        </a>
+        <div class="priceCon">
+            <span class="price"></span>
+            <span class="oldPrice"></span>
+        </div>
+    </div> --><script>/* var index=0;
+        var nextIndex=0;
+    
+        //autoPlay();
+        aaa();
+        function annimate(){
+            $(" img").eq(index).stop().fadeOut(0);
+                $(" img").eq(nextIndex).stop().fadeIn(0);
+            $(" ul li").eq(nextIndex).addClass("firstli").siblings().removeClass("firstli");
+            }
+            
+            function aaa(){
+             $("ul li").hover(function(){
+                
+            nextIndex=$(this).index();
+
+       //   console.log(nextIndex)
+          console.log(index)
+            annimate();
+           index= nextIndex;
+        })
+            }
+ */
+     
+
+/* 
+            var arr=[
+                [
+                {
+                    "手机":{
+                        "title":"手机",
+                        "img":"./image/nav/1.webp"
+                    },
+                    "官方配件":{
+                        "title":["数据线","充电器","线控耳机","移动电源","拍照配件"],
+                        "img":["./image/nav/2.webp","./image/nav/3.webp","./image/nav/4.webp","./image/nav/5.webp","./image/nav/6.webp"]
+                    },
+                    "畅呼吸系列":{
+                        "title":["空气净化器","生活电器配件"],
+                        "img":["./image/nav/7.webp","./image/nav/8.webp"]
+                    },
+                    "服饰箱包":{
+                        "title":["箱包","男装"],
+                        "img":["./image/nav/9.webp","./image/nav/10.webp"]
+                    }     
+                    
+                },
+                {
+                    "官方自营":{
+                        "title":["坚果pro3","坚果pro3","坚果pro3","Smartisan 真无线TWS蓝牙耳机","Smartisan 真无线TWS蓝牙耳机","坚果快充移动电源 20000mAh（45W MAX)","Smartisan 颈挂蓝牙耳机","Smartisan 颈挂蓝牙耳机"],
+                        "img":["./image/nav/11.webp","./image/nav/12.webp","./image/nav/13.webp","./image/nav/14.webp","./image/nav/15.webp","./image/nav/16.webp","./image/nav/17.webp","./image/nav/18.webp"],
+                        "price":["2399.00","2399.00","2399.00","199","199","169","179","179"]
+                    }
+                }
+            ]
+               
+            ]
+                */
+            
+   
+
+
+                var arr=[
+                    [   1001,
+                        {color:"#fff",
+                        img:["./images/subpage/erji/1.webp",
+                        "./images/subpage/erji/2.webp",
+                        "./images/subpage/erji/3.webp",
+                        "./images/subpage/erji/4.webp",
+                    ]
+                    },
+                        {color:"#0a4c4a",
+                        img:["./images/subpage/erji/5.webp",
+                        "./images/subpage/erji/6.webp",
+                        "./images/subpage/erji/7.webp",
+                        "./images/subpage/erji/8.webp",
+                        "./images/subpage/erji/9.webp",
+                    ]
+                    },
+                    {
+                        title:"Smartisan 真无线TWS蓝牙耳机",
+                        title2:"智能配对 开盖即连",
+                        price:199.00,
+                        oldprice:249.00,
+                        sales:"自营配件 限时直降",
+                        color:["#fff", "#0a4c4a"],
+                        info:"满 99 元包邮"
+
+                    }
+                    ]
+                ]
+      
+
+          var str=     JSON.stringify(arr)
+          document.write(str)</script></body></html>

@@ -1,0 +1,173 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Document</title><link rel="stylesheet" href="css/index.css"><script src="./js/jquery/dist/jquery.min.js"></script><style>.listCon {
+      width: 1200px;
+      height: 900px;
+      background-color: aqua;
+    }</style></head><body><div class="listCon"></div><script type="module">import GoodsItem from "./js/GoodsItem.js";
+    var goodsList;
+    $.ajax({
+      url: "data.json",
+      success: function (result) {
+        goodsList = result;
+
+        init();
+      },
+      error: function (msg) {
+        console.log(msg)
+      }
+    })
+
+
+
+    function init() {
+      goodsList.forEach(function (item) {
+        // createGoods(item);
+        // console.log(item["color"])
+        var goods = new GoodsItem(item);
+        goods.appendTo(".listCon")
+      });
+
+
+    }
+
+    /*   function createGoods(data) {
+        var div = Utils.ce("div");
+        div.className = "goodsCon";
+        var a=Utils.ce("a");
+        a.href=data.href;
+        a.target="_blank";
+        div.appendChild(a);
+        createPriceConDown(a,data.priceDown)
+        createIcon(a, data.icon);
+        createTitle(a, data.title);
+        createInfo(a, data.info);
+        dotList(a,data.color)
+        //console.log(data.color)
+
+        createPriceCon(div, data);
+        document.body.appendChild(div);
+      }
+
+      function createPriceConDown(parent,priceDown){
+        if(priceDown){
+          var div=Utils.ce("div",{
+            width:"46px",
+            height:"20px",
+            lineHead:"18px",
+            border:"1px solid #d5b480",
+            color:"#a06e37",
+            backgroundColor:"#fffbdf",
+            position:"absolute",
+            right:"15px",
+            top:"15px",
+            fontSize:"12px",
+            textAlign:"center",
+            boxShadow:" 0 1px 3px 0 rgba(0,0,0,.05)",
+            borderRadius:"13px"
+          })
+          var text=document.createTextNode(priceDown)
+          div.appendChild(text)
+          parent.appendChild(div)
+        }
+      }
+
+      function createIcon(parent, iconPath) {
+        var div=Utils.ce("div")
+
+        iconPath.forEach(item=>{
+          var img = new Image();
+          img.src = item;
+         img.className = "icon";
+         div.appendChild(img);
+        })
+        div.className="iconDiv";
+        parent.appendChild(div);
+      }
+
+      function createTitle(parent, title) {
+        var h4 = Utils.ce("h4");
+        h4.className = "title";
+        h4.textContent = title;
+        parent.appendChild(h4);
+      }
+
+      function createInfo(parent, info) {
+         var div = Utils.ce("div");
+        var text = document.createTextNode(info);
+        div.appendChild(text);
+        div.className = "info";
+        parent.appendChild(div);
+      }
+
+
+      function dotList(parent,color){
+        var div=Utils.ce("div",{
+          width:"303.5px",
+          height:"17px",
+          marginTop:"15px"
+        });
+        var ul=Utils.ce("ul",{
+          height:"100%",
+         padding:"0",
+        display:"flex",
+        justifyContent:"center",
+
+        });
+        if(color){
+          for(var i=0;i<color.length;i++){
+          var li=Utils.ce("li",{
+            width: "10px",
+            height:" 10px",
+            border: "1px solid #000",
+            float: "left",
+            margin:" 3px",
+            borderRadius:"50%",
+            backgroundColor:color[i]
+          });
+          //console.log(color[i])
+          //console.log(li)
+          ul.appendChild(li);
+          }
+        }
+       div.appendChild(ul);
+        parent.appendChild(div);
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      function createPriceCon(parent, data) {
+        var div = Utils.ce("div");
+        div.className = "priceCon";
+        createHistory(div, data.history);
+        createPrice(div, data.price, data.oldPrice);
+        parent.appendChild(div);
+      }
+
+      function createHistory(parent, history) {
+          if(history.trim().length===0)  return;
+        var div = Utils.ce("div");
+        div.textContent = history;
+        div.className = "history";
+        parent.appendChild(div);
+      }
+      function createPrice(parent, price, oldPrice) {
+        var priceDiv = Utils.ce("span");
+        priceDiv.textContent = "￥" + price;
+        priceDiv.className = "price";
+        var oldPriceDiv = Utils.ce("span");
+        oldPriceDiv.textContent = "￥" + oldPrice;
+        oldPriceDiv.className = "oldPrice";
+        parent.appendChild(priceDiv);
+        parent.appendChild(oldPriceDiv);
+      } */</script></body></html>
